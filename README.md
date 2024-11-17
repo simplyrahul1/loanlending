@@ -17,7 +17,7 @@ With 25 years of technology leadership experience across global financial market
 * [Contact](#contact)
 
 ## General Information
-This project analyzes lending patterns and default risks for a consumer finance company specializing in urban lending. The analysis covers 39,717 loans totaling ₹445,602,650, combining traditional risk assessment with modern data-driven approaches.
+The project analyzes lending patterns and default risks for the consumer finance company specializing in urban lending. The analysis covers 39,717 loans totaling $445,602,650, combining traditional risk assessment with modern data-driven approaches.
 
 ### Business Problem
 The company faces two critical risk types:
@@ -73,11 +73,14 @@ Wells Fargo        54       7.41%      70,666.67
 - Employment length shows mixed correlation with defaults
 
 ## Technologies Used
+- Anaconda - version 22.9.0
 - Python - version 3.9
-- Pandas - version 1.3.0
-- Numpy - version 1.21.0
-- Seaborn - version 0.11.1
-- Matplotlib - version 3.4.2
+- Pandas - version 1.4.4
+- Numpy - version 1.21.5
+- Seaborn - version 0.11.2
+- Jupyter - version - 6.4.12
+- Matplotlib - version 3.5.2
+- Visual Studio Code - 1.79.0
 
 ## Conclusions
 
